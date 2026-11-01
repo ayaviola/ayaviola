@@ -4,7 +4,7 @@
 
 *“Pick a flower on Earth and you move the farthest star.” -Paul Dirac*
 
-***Main Language:*** Python
+***Main Language:*** Python  
 ***BD:*** SQL, PostGreSQL  
 ***Learning:*** R, Julia, C++
 
