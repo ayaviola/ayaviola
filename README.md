@@ -1,16 +1,13 @@
-## Hi there 👋
+<img width="736" height="216" alt="image" src="https://github.com/user-attachments/assets/ed2c7663-16fd-4957-a32e-7e480a39ea65" />
 
-<!--
-**ayaviola/ayaviola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! I'm Aya Alqala 👋
 
-Here are some ideas to get you started:
+*“Pick a flower on Earth and you move the farthest star.” -Paul Dirac*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***Languages:*** Python, C++, Julia
+- ***BD:*** SQL, PostGreSQL
+- ***Learning:*** R, Julia
+
+# Socials:
+<img src="https://github.com/user-attachments/assets/268cb967-9eaf-4cf3-ae34-1c1c095ef34d" width="25" height="25" alt="icons8-linkedin-25" align="middle" /> 
+<a href="https://www.linkedin.com/in/aya-alqala/">LinkedIn Profile<a>
