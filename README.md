@@ -10,4 +10,4 @@
 
 # Socials:
 <img src="https://github.com/user-attachments/assets/268cb967-9eaf-4cf3-ae34-1c1c095ef34d" width="25" height="25" alt="icons8-linkedin-25" align="middle" /> 
-<a href="https://www.linkedin.com/in/aya-alqala/">LinkedIn Profile<a>
+<a href="https://www.linkedin.com/in/aya-alqala/">LinkedIn Profile</a>
