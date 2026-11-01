@@ -4,9 +4,9 @@
 
 *“Pick a flower on Earth and you move the farthest star.” -Paul Dirac*
 
-***Languages:*** Python, C++, Julia  
+***Main Language:*** Python
 ***BD:*** SQL, PostGreSQL  
-***Learning:*** R, Julia  
+***Learning:*** R, Julia, C++
 
 # Socials:
 <img width="25" height="25" align="middle" alt="icons8-linkedin-25" src="https://github.com/user-attachments/assets/97ebc9b7-6a67-41e4-b13a-957226eb796b" />
