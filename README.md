@@ -9,5 +9,5 @@
 - ***Learning:*** R, Julia
 
 # Socials:
-<img src="https://github.com/user-attachments/assets/268cb967-9eaf-4cf3-ae34-1c1c095ef34d" width="25" height="25" alt="icons8-linkedin-25" align="middle" /> 
+<img width="25" height="25" allign="middle" alt="icons8-linkedin-25" src="https://github.com/user-attachments/assets/97ebc9b7-6a67-41e4-b13a-957226eb796b" />
 <a href="https://www.linkedin.com/in/aya-alqala/">LinkedIn Profile</a>
